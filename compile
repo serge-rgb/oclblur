@@ -1,0 +1,1 @@
+g++ blur.cc ocl/ocl.cc tgaLoader/TgaLoader.cpp -lOpenCL
